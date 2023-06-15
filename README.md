@@ -3,12 +3,12 @@ GitHub repository for term project in ME 507: Mechanical Control Systems class a
 
 By: 
 
-Jeff Romeo
-B.S. Computer Engineering '22
+Jeff Romeo:
+B.S. Computer Engineering '22,
 M.S. Electrical Engineering '23
 
-Roshan Dominic
-B.S. Electrical Engineering '22
+Roshan Dominic:
+B.S. Electrical Engineering '22,
 M.S. Electrical Engineering '23
 
 Hungry Hippos is a game where many participants are in a competition, and the goal is to collect as many marbles as you can
