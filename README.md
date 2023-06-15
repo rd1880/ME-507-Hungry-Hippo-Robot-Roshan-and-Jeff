@@ -16,7 +16,9 @@ Mechanical design. Files included are for the master code, CAD Solidworks diagra
 - Create a program that will drive motors via motor controllers on PCB board
 - Design, Fabricate, and Test a PCB Board with power circuitry, motor, and sensor control for Robot Design
 - Create a program that will read a line follower sensor with feedback for determine white vs black lines
-- Successfully implement tests for motors and sensors 
+- Successfully implement tests for motors and sensors
+- Learn how to use Fusion360 for PCB Design
+- Learn a little bit of Solidworks
 
 
 # Bill of Materials
