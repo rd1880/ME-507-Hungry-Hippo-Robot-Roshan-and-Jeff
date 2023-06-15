@@ -23,8 +23,8 @@ Mechanical design. Files included are for the master code, CAD Solidworks diagra
 <img width="588" alt="Screenshot 2023-06-15 at 11 25 23" src="https://github.com/rd1880/ME-507-Hungry-Hippo-Robot-Roshan-and-Jeff/assets/91996177/e2bcefac-4472-438b-bf5e-27ce57420775">
 
 
-
-
+# Sketch of Proposed Robot Design
+<img width="515" alt="Screenshot 2023-06-15 at 12 46 30" src="https://github.com/rd1880/ME-507-Hungry-Hippo-Robot-Roshan-and-Jeff/assets/91996177/88251cb9-3aea-4179-b3a3-eb9e14225349">
 
 # Schematic for Proposed PCB Design 
 
