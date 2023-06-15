@@ -2,6 +2,7 @@
 GitHub repository for term project in ME 507: Mechanical Control Systems class at Cal Poly, SLO under Instructor Charlie Refvem.
 
 By: 
+
 Jeff Romeo
 B.S. Computer Engineering '22
 M.S. Electrical Engineering '23
