@@ -7,7 +7,7 @@ with feedback via color and light sensors to complete a task of collecting as ma
 The catch is that there are different colored balls, and they are assigned to each team. Black lines cover the arena from the base 
 to the center, and the line follower is meant to be used to follow then line and scoop up balls, using the color sensor as 
 feedback to collect the properly assigned colored ball. This repository includes Goals Accomplished, BoM, PCB Design, proposed 
-Mechanical design, and the master code for the robot.
+Mechanical design. Files included are for the master code, CAD Solidworks diagram, and Fusion 360 files. 
 
 
 
