@@ -16,7 +16,7 @@ Mechanical design, and the master code for the robot.
 - Create a program that will drive motors via motor controllers on PCB board
 - Design, Fabricate, and Test a PCB Board with power circuitry, motor, and sensor control for Robot Design
 - Create a program that will read a line follower sensor with feedback for determine white vs black lines
-- Successfully implement tests and 
+- Successfully implement tests for motors and sensors 
 
 
 # Bill of Materials
@@ -33,5 +33,7 @@ Mechanical design, and the master code for the robot.
 <img width="329" alt="Screenshot 2023-06-15 at 11 23 07" src="https://github.com/rd1880/ME-507-Hungry-Hippo-Robot-Roshan-and-Jeff/assets/91996177/78a91ebd-3671-47d8-90c9-425a99f46d04">
 
 Board Schematic and Layout files are above.
+
+
 
 
