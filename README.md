@@ -1,5 +1,5 @@
 # ME-507-Hungry-Hippo-Robot-Roshan-and-Jeff
-GitHub repository for term project in ME 507 class at Cal Poly, SLO under Instructor Charlie Refvem.
+GitHub repository for term project in ME 507: Mechanical Control Systems class at Cal Poly, SLO under Instructor Charlie Refvem.
 
 Hungry Hippos is a game where many participants are in a competition, and the goal is to collect as many marbles as you can
 that were thrown out onto the arena. For the scope of this class, the goal is to engineer a highly functional and stable robot,
