@@ -1,5 +1,5 @@
 # ME-507-Hungry-Hippo-Robot-Roshan-and-Jeff
-GitHub repository for term project in ME 507: Mechanical Control Systems class at Cal Poly, SLO under Instructor Charlie Refvem.
+GitHub repository for term project in ME 507: Mechanical Control Systems course at Cal Poly, SLO under Instructor Charlie Refvem.
 
 By: 
 
@@ -50,11 +50,11 @@ Mechanical design. Files included are for the master code, CAD Solidworks diagra
 Board Schematic and Layout files are above.
 
 # Master Code Files Description
-Main.c
-mDriver.c
-mDriver.h
-Helpers.c
-Helpers.h
+- Main.c
+- mDriver.c
+- mDriver.h
+- Helpers.c
+- Helpers.h
 
 
 
