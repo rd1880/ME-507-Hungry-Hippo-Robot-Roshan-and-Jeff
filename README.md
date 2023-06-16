@@ -39,10 +39,12 @@ Mechanical design. Files included are for the master code, CAD Solidworks diagra
 <img width="515" alt="Screenshot 2023-06-15 at 12 46 30" src="https://github.com/rd1880/ME-507-Hungry-Hippo-Robot-Roshan-and-Jeff/assets/91996177/88251cb9-3aea-4179-b3a3-eb9e14225349">
 
 # Schematic for Proposed PCB Design 
+<img width="595" alt="Screenshot 2023-06-16 at 11 42 27" src="https://github.com/rd1880/ME-507-Hungry-Hippo-Robot-Roshan-and-Jeff/assets/91996177/64c2d878-1197-4f8a-afaa-2beff4c79390">
+<img width="616" alt="Screenshot 2023-06-16 at 11 42 40" src="https://github.com/rd1880/ME-507-Hungry-Hippo-Robot-Roshan-and-Jeff/assets/91996177/c38b4335-6bb7-4dd5-970b-22888c889de9">
 
 
 # PCB Design
-<img width="329" alt="Screenshot 2023-06-15 at 11 23 07" src="https://github.com/rd1880/ME-507-Hungry-Hippo-Robot-Roshan-and-Jeff/assets/91996177/78a91ebd-3671-47d8-90c9-425a99f46d04">
+<img width="616" alt="Screenshot 2023-06-16 at 11 41 11" src="https://github.com/rd1880/ME-507-Hungry-Hippo-Robot-Roshan-and-Jeff/assets/91996177/25798122-14fc-449d-be36-56bab9013a5b">
 
 Board Schematic and Layout files are above.
 
