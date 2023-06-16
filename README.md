@@ -21,6 +21,7 @@ Mechanical design. Files included are for the master code, CAD Solidworks diagra
 
 
 
+
 # Goals Accomplished
 - Create a program that will act as a DeadMan's Switch for safe practices
 - Create a program that will drive motors via motor controllers on PCB board
@@ -47,6 +48,14 @@ Mechanical design. Files included are for the master code, CAD Solidworks diagra
 <img width="616" alt="Screenshot 2023-06-16 at 11 41 11" src="https://github.com/rd1880/ME-507-Hungry-Hippo-Robot-Roshan-and-Jeff/assets/91996177/25798122-14fc-449d-be36-56bab9013a5b">
 
 Board Schematic and Layout files are above.
+
+# Master Code Files Description
+Main.c
+mDriver.c
+mDriver.h
+Helpers.c
+Helpers.h
+
 
 
 
