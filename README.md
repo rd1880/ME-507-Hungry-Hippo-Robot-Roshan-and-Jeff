@@ -47,6 +47,12 @@ Mechanical design. Files included are for the master code, CAD Solidworks diagra
 # PCB Design
 <img width="616" alt="Screenshot 2023-06-16 at 11 41 11" src="https://github.com/rd1880/ME-507-Hungry-Hippo-Robot-Roshan-and-Jeff/assets/91996177/25798122-14fc-449d-be36-56bab9013a5b">
 
+<img width="498" alt="Screenshot 2023-06-16 at 11 50 36" src="https://github.com/rd1880/ME-507-Hungry-Hippo-Robot-Roshan-and-Jeff/assets/91996177/e66ded59-28b1-485c-9983-b23a7cd8844c">
+
+
+
+
+
 Board Schematic and Layout files are above.
 
 # Master Code Files Description
