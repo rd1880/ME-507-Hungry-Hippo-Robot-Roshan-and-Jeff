@@ -55,12 +55,6 @@ Mechanical design. Files included are for the master code, CAD Solidworks diagra
 
 Board Schematic and Layout files are above.
 
-# Master Code Files Description
-- Main.c
-- mDriver.c
-- mDriver.h
-- Helpers.c
-- Helpers.h
 
 
 
